@@ -14,4 +14,6 @@ public class ConsecutivoFactura {
     public int siguiente() {
         return ++ultimo;
     }
+
+    
 }
